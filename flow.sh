@@ -4,7 +4,7 @@
 git add -A
 
 # commit changes
-git commit -m "Commit changes to flow.sh"
+git commit -m "Commit changes to script"
 
 # push changes
 git push origin main
